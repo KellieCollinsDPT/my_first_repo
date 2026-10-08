@@ -7,6 +7,5 @@ Trying out the commit
 Testing out branching now!
 
 
-Wnat to keep this second paragraph
-
+We hsould revise this second paragraph but keep the third
 Testing out thrid paragraph
